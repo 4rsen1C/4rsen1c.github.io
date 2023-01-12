@@ -2,7 +2,7 @@
 
 ## Hutao Simp🥰🥰
 
-<img src="https://github.com/4rsen1C/4rsen1c.github.io/blob/main/Hutaooo.jpg" width="250" height="250" />
+<img src="https://github.com/4rsen1C/4rsen1c.github.io/blob/main/Hutaooo.jpg" width="400" height="230" />
 
 
 
