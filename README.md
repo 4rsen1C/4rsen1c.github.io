@@ -12,6 +12,8 @@ Jian Erwin Dave D. Olleres
 - kahit kay keqing 
 - adik ako sa genshin uwu
 
+**My Socials<33**
+
 [`Facebook`](https://www.facebook.com/jedilanco)
 
 
