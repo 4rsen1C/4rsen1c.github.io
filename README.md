@@ -1,5 +1,15 @@
 # **Welcome to 4rsen1C.github.io !!** <img src="STICKERR_low.png" width="100" height="" />
 
+**Thinngs about me!!** <img src="kaz.png" width="50" height="" />
+
+
+
+
+
+
+
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tzGmZKQIZZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
