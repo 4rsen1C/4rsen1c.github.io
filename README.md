@@ -1,14 +1,20 @@
-# **Welcome to 4rsen1C.github.io !!** <img src="STICKERR_low.png" width="100" height="" />
+# **Welcome to 4rsen1c.github.io !!** <img src="STICKERR_low.png" width="100" height="" />
 
 # **Things about me!!** <img src="kaz.png" width="85" height="" />
 
 ## **My Favorite Artist<33** <img src="barbz2.png" width="75" height="" />
 
-### Yoasobi!!
+- ### Yoasobi!!
 <img src="Yoasabi.png" width="300" height="" />
 
-### Rex Orange Country<33
+- ### Rex Orange Country<33
 <img src="Rex.png" width="300" height="" />
+
+- ### Ricky Montgomery
+<img src="Ricky.png" width="250" height="" />
+
+## **My Top 5 Songs!!** <img src="music.png" width="65" height="" />
+
 
 
 
