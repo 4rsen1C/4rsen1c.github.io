@@ -3,10 +3,12 @@
 ## **Things about me!!** <img src="kaz.png" width="85" height="" />
 
 ### **My Favorite Artist<33** <img src="barbz2.png" width="75" height="" />
-### **Yoasobi!!**🤩🤩
+
+### **Yoasobi!!** 
 <img src="Yoasabi.png" width="300" height="" />
 
-
+### **Rex Orange Country<33**
+<img src="Rex.png" width="300" height="" />
 
 
 
