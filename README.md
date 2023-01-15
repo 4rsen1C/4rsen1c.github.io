@@ -1,6 +1,6 @@
 # **Welcome to 4rsen1C.github.io !!** <img src="STICKERR_low.png" width="100" height="" />
 
-**Thinngs about me!!** <img src="kaz.png" width="50" height="" />
+## **Things about me!!** <img src="kaz.png" width="85" height="" />
 
 
 
