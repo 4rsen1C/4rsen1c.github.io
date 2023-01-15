@@ -19,7 +19,7 @@
  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3dPtXHP0oXQ4HCWHsOA9js?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - ### Best friend by Rex. I STILL WANNA BE YOUR FAVORITE BOYYYY!! 
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/47Bg6IrMed1GPbxRgwH2aC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 
