@@ -2,6 +2,10 @@
 
 ## **Things about me!!** <img src="kaz.png" width="85" height="" />
 
+### **My Favorite Artist** <img src="barbz.png" width="60" height="" />
+
+
+
 
 
 
