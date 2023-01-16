@@ -34,6 +34,7 @@
 ### Ateneo De Naga University
 <img src="adnu.png" width="300" height="" />
 
-
-
+# Games that I play
+- Genshin Impact
+<img src="genshin.jpg" width="300" height="" />
 
