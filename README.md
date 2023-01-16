@@ -27,4 +27,13 @@
 - ### This December by Ricky. I'M ALRIGHT YOUR ALRIGHT I'M OKAY IF YOUR OKAY <img src="ridinshugan.png" width="75" height="" />
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3gjRRs7gmh3Euynu1cau1d?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+- ### Rat by Penelope Scott. A very unique song <img src="Venti.png" width="75" height="" />
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4blPH3Uy89WnOnYlIv7Ev4?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# Where I school 
+### Ateneo De Naga University
+<img src="adnu.png" width="300" height="" />
+
+
+
 
