@@ -35,6 +35,11 @@
 <img src="adnu.png" width="300" height="" />
 
 # Games that I play
-- Genshin Impact
+
+- Genshin Impact <img src="paimon.png" width="75" height="" />
+
 <img src="genshin.jpg" width="300" height="" />
 
+- Valorant <img src="washdish.png" width="75" height="" />
+
+<img src="balo.png" width="300" height="" />
