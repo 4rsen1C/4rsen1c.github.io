@@ -43,3 +43,8 @@
 - Valorant <img src="washdish.png" width="75" height="" />
 
 <img src="balo.png" width="300" height="" />
+
+- League of legends <img src="Lux.png" width="75" height="" />
+<img src="League.jpg" width="300" height="" />
+
+My Stats!! <img src="benti.webp" width="75" height="" />
