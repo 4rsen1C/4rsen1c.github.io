@@ -1,5 +1,7 @@
 # **Welcome to 4rsen1c.github.io !!** <img src="STICKERR_low.png" width="100" height="" />
 
+## Hello !! I am Jed Olleres and this are things about me <33
+
 # **Things about me!!** <img src="kaz.png" width="85" height="" />
 
 ## **My Favorite Artist<33** <img src="barbz2.png" width="75" height="" />
@@ -49,3 +51,4 @@
 <img src="League.jpg" width="300" height="" />
 
 # My Stats!! <img src="benti.webp" width="75" height="" />
+
