@@ -30,7 +30,7 @@
 - ### Rat by Penelope Scott. A very unique song <img src="Venti.png" width="75" height="" />
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4blPH3Uy89WnOnYlIv7Ev4?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-# Where I school 
+## Where I school 
 ### Ateneo De Naga University
 <img src="adnu.png" width="300" height="" />
 
@@ -48,4 +48,4 @@
 
 <img src="League.jpg" width="300" height="" />
 
-My Stats!! <img src="benti.webp" width="75" height="" />
+# My Stats!! <img src="benti.webp" width="75" height="" />
